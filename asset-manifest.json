@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploytest/static/css/main.5f361e03.chunk.css",
+    "main.js": "/deploytest/static/js/main.b12dcbb2.chunk.js",
+    "main.js.map": "/deploytest/static/js/main.b12dcbb2.chunk.js.map",
+    "runtime-main.js": "/deploytest/static/js/runtime-main.c61cbb4d.js",
+    "runtime-main.js.map": "/deploytest/static/js/runtime-main.c61cbb4d.js.map",
+    "static/js/2.4fe1e23d.chunk.js": "/deploytest/static/js/2.4fe1e23d.chunk.js",
+    "static/js/2.4fe1e23d.chunk.js.map": "/deploytest/static/js/2.4fe1e23d.chunk.js.map",
+    "index.html": "/deploytest/index.html",
+    "precache-manifest.78a5d3293c89b2b0cef9277b0c38b6d9.js": "/deploytest/precache-manifest.78a5d3293c89b2b0cef9277b0c38b6d9.js",
+    "service-worker.js": "/deploytest/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/deploytest/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4fe1e23d.chunk.js.LICENSE.txt": "/deploytest/static/js/2.4fe1e23d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deploytest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c61cbb4d.js",
+    "static/js/2.4fe1e23d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b12dcbb2.chunk.js"
+  ]
+}
